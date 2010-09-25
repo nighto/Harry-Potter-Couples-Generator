@@ -88,8 +88,6 @@ int main() {
 	h = rand() % totalMen;
 	m = rand() % totalWomen;
 
-//	cout << homem[h] << " + " << mulher[m] << endl;
-
 	// Life is made of choices.
 	ShowMenu();
 
